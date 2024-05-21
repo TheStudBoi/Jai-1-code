@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @The_Stud_Boi
+- 👋 Hi, I’m @TheStudBoi
 - 🌱 I’m currently pursuing my Bachelor's degree in Indian Institute of Technology Roorkee
 - 💞️ I’m looking to collaborate on web develeopment projects, mainly frontend.
 - I am interested, and learning Machine Learning.
